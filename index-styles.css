@@ -1,0 +1,32 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+}
+
+.index-body {
+    background-color: wheat;
+}
+
+.index-head {
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+.index-main {
+    margin: 50px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+.recipe-item {
+    margin: 0 auto;
+
+}
